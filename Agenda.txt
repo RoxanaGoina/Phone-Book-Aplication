@@ -1,0 +1,5 @@
+Dan,Gheorghidiu,35,0876544782,
+Ion,Ionescu,20,0673928681,ion.ionescu@gmail.com
+Pavel,Popescu,21,08642748598,popescu_pavel12@gmail.com
+Maria,Manciulea,22,09875378563,manciulea.maria@yahoo.com
+Mirela,Mihaelescu,25,0986632,mihaelescu.mirela@gmail.com
